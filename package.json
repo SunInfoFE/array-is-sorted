@@ -1,5 +1,5 @@
 {
-  "name": "@sunflower/array-is-sorted",
+  "name": "@suninfo/array-is-sorted",
   "version": "0.1.0",
   "description": "检测数组是否排序的模块",
   "main": "index.js",
@@ -20,7 +20,7 @@
     "sort",
     "sorted"
   ],
-  "author": "sunflower",
+  "author": "XinHuaLuFang",
   "license": "MIT",
   "devDependencies": {
     "mocha": "^5.0.5"
